@@ -1,4 +1,4 @@
-[![MasterHead](https://static.vecteezy.com/system/resources/previews/034/956/583/non_2x/flat-illustration-of-data-analytics-for-website-banner-business-analysis-market-research-product-testing-data-analysis-concept-data-report-vector.jpg)](https://github.com/Yash2161)
+
 
 <h1 align="center">Hi 👋, I'm Yash Pawar</h1>
 <h3 align="center">Unlocking insights through data analysis, one byte at a time.</h3>
