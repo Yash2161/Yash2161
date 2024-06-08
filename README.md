@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **yashpawar2161@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/Yash2161/Resume/blob/main/Yash_Data_Analyst_Resume.pdf](https://github.com/Yash2161/Resume/blob/main/Yash_Data_Analyst_Resume.pdf)
+- 📄 Know about my experiences [https://github.com/Yash2161/Resume/blob/main/Yash_Data_Analyst.pdf](https://github.com/Yash2161/Resume/blob/main/Yash_Data_Analyst.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
